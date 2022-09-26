@@ -1,2 +1,3 @@
 # parallax-scrolling-Fairy-Forest
-Fairy-Forest parallax-scrolling
+
+parallax-scrolling-Fairy-Forest
